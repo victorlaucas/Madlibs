@@ -83,7 +83,7 @@ class MadlibForm extends Component {
             nounTwo: '',
             adjectiveThree: '',
             celebrityTwo: '',
-            celebrithThree: '',
+            celebrityThree: '',
             adjectiveFour: '',
             nounThree: '',
             celebrityFour: '',
